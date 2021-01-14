@@ -43,3 +43,9 @@ nav img{
     color: #fabe4c;
     font-weight: 700;
 }
+.service img{
+    width: 80%;
+}
+.apps img{
+    width:100%;
+}
