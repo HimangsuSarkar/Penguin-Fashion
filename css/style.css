@@ -1,3 +1,29 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+header{
+    background-color: #fffbf0;
+}
 nav img{
     width: 300px;
+}
+
+.banner img{
+ width: 100%;
+}
+.banner h1{
+    font-weight: 700;
+    font-size: 60px;
+    text-transform: uppercase;
+    color: #fabe4c;
+}
+.banner p{
+    color: dimgray;
+}
+.color-highlight{
+ color: #363958;
+
+}
+.btn-color {
+    background-color: #9cb53a;
 }
